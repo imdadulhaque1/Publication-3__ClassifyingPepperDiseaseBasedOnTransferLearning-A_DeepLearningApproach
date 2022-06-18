@@ -1,8 +1,8 @@
 # Title: Classifying Pepper Disease Based on Transfer Learning: A Deep Learning Approach
 
 
-<!-- # Available in online
-This Publication is available in online by **IEEE** and please [CLICK HERE](https://ieeexplore.ieee.org/document/9316106/keywords?fbclid=IwAR0TXmqPbCVlM7Lifsf9zOWByYZ6CdmPwHKBQf070bmOyrr_sG6q42h16d8#keywords) to show our publication. -->
+# Available in online
+This Publication is available in online by **IEEE** and please [CLICK HERE](https://ieeexplore.ieee.org/document/9793178) to show our publication.
 
 # Please visit the below link for showing Pepper image dataset
 [Pepper Dataset Link](https://github.com/imdadulhaque1/Pepper_Dataset)
