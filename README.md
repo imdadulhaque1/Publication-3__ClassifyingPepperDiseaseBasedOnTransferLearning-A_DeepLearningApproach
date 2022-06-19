@@ -13,4 +13,6 @@ This Publication is available in online by **IEEE** and please [CLICK HERE](http
 # And now, this is Presentation Certificate.
 ![presentationCertificateImdadulHaque](https://user-images.githubusercontent.com/45633928/167692099-373f9594-e63f-4845-8184-da54074b26b9.png)
 
-<!-- # Referance -->
+# Referance
+`I. Haque, M. A. Islam, K. Roy, M. M. Rahaman, A. A. Shohan and M. S. Islam, "Classifying Pepper Disease based on Transfer Learning: A Deep Learning Approach," 2022 International Conference on Applied Artificial Intelligence and Computing (ICAAIC), 2022, pp. 620-629, doi: 10.1109/ICAAIC53929.2022.9793178.`
+
